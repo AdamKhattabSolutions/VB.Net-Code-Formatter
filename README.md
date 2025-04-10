@@ -91,7 +91,7 @@ combined_output_2.rtf
 
 📂 It will be saved in the **same directory** where the script is run.
 
-📝 You can open it with **Microsoft Word**, **WordPad**, or any RTF-compatible editor to view the **colour-coded VB.NET source code**.
+📝 You can open it with **Microsoft Word**, **WordPad**, or any RTF-compatible editor to view the **colour-coded VB.NET source code**. Then, press **Ctrl + A** to select all, followed by **Ctrl + C** to copy it. You can then paste it into your main file or document.
 
 ---
 
